@@ -1,0 +1,39 @@
+NAME: Breno Souza
+
+Restaurant manager: Got it wrong, its like a lot of restaurant managers that can answer the question through the database, the same for waitress and customer.
+
+1. How regular do you report to restaurant owners about the financial and operational performance of the business?
+2. How often do you oversee the levels of consumables, equipments, and bar ingredients of the restaurant?
+
+Waiter/Waitress:
+1. What are the type of interactions do you have with customers, from the beginning until the end of the service?
+2. How good are you at memorizing the menu and doing multiple tasks?
+
+Customer:
+1. What types of wines or beers do you like in this restaurant?
+2. What makes you tip more often in a restaurant?
+
+
+part 2:
+1. Book catalog (author, books, types of books, etc.)
+2. Borrow-books system (retrieval date, pick-up day)
+3. 
+
+part 3:
+3.a) Author
+
+1. Name
+2. Address
+3. Field of experience
+4. Date and time of publication
+
+3.b)
+
+1. Game genre
+2. Name of the game
+3. Minimum requirements
+4. Release date
+
+BONUS:
+If similar: 3a-3 with 3b-1
+If equal?
